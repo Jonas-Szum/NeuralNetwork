@@ -1,2 +1,2 @@
 # NeuralNetwork
-Neural Network written in python3
+Neural Network written in python3 using jupyter notebook.
